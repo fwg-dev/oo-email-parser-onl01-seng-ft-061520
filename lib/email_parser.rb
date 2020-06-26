@@ -3,6 +3,8 @@
 # unique email addresses. The delimiters to support are commas (',')
 # or whitespace (' ').
 class EmailAddressParser
- parse = EmailAddressParser.new
- attr_accessor: CSV
+ # parse = EmailAddressParser.new
+ # attr_accessor: CSV
+ # def email_addresses
+ #   email_addresses
 end
