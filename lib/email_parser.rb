@@ -4,5 +4,5 @@
 # or whitespace (' ').
 class EmailAddressParser
  parse = EmailAddressParser.new
- attr_accessor: CSV 
+ attr_accessor: CSV
 end
